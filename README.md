@@ -1,2 +1,2 @@
 # Labbook
-This is alabbook repository
+This is a labbook repository
